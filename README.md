@@ -1,5 +1,8 @@
 # SuperCoolProject
 
+Joseph Wang
+Software Engineering Lab 8
+
 Hello! Glad to see my homework repo is still being used. Maybe check out some of the other garbage I have kicking around on here?
 
 Pro tips for getting an A in Dr.Cerny's class. 
